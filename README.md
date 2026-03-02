@@ -1,15 +1,24 @@
 # Elysia with Bun runtime
-
+using Prisma with dockerized PostgreSQL
 ## Getting Started
 To get started with this template, simply paste this command into your terminal:
 ```bash
-bun create elysia ./elysia-example
+bun create elysia ./elysia-bun
 ```
+```bash
+bun add -d prisma
+```
+--- 
+Swagger for UI
 
+
+
+--- 
 ## Development
 To start the development server run:
 ```bash
-bun run dev
+bun  dev
 ```
 
-Open http://localhost:3000/ with your browser to see the result.
+Open http://localhost:3049/swagger with your browser to see the result.
+
