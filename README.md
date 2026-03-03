@@ -21,4 +21,4 @@ bun  dev
 ```
 
 Open http://localhost:3049/swagger with your browser to see the result.
-
+![Bun js website](/src/assets/Swagger-UI.png)
