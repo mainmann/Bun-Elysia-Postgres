@@ -24,6 +24,7 @@ bun  dev
 Open http://localhost:3049/swagger with your browser to see the result.
 
 - Video:
+
 ![Demo](/src/assets/Demo.gif)
   
   
